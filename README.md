@@ -1,4 +1,15 @@
 # Dashboards
+
+SOMMAIRE / QUICK SUMMARY
+
+1. AniDashboard : Dashboard fait sur les animes et l'industrie de japanimation.
+2. IAEtTrading : Présentation Powerpoint que j'ai dû faire 1h avant de devoir la présenter à deux classes différentes. Je m'en suis bien sorti.
+
+---
+
+1. AniDashboard: Dashboard made on anime and the Japanimation industry.
+2. IAEtTrading: Powerpoint presentation that I had to do 1 hour before having to present it to two different classes. I did well.
+
 FRENCH VERSION (ENGLISH VERSION BELOW)
 
 
