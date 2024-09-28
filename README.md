@@ -4,11 +4,12 @@ SOMMAIRE / QUICK SUMMARY
 
 1. AniDashboard : Dashboard fait sur les animes et l'industrie de japanimation.
 2. IAEtTrading : Présentation Powerpoint que j'ai dû faire 1h avant de devoir la présenter à deux classes différentes. Je m'en suis bien sorti.
-
+3. Juste un dashboard rapide fait sur un coup de tête sur les licenciements dans le secteur technologique depuis COVID-19.
 ---
 
 1. AniDashboard: Dashboard made on anime and the Japanimation industry.
 2. IAEtTrading: Powerpoint presentation that I had to do 1 hour before having to present it to two different classes. I did well.
+3. Just a quick dashboard that I made on the spot about Tech Layoffs since COVID-19.
 
 FRENCH VERSION (ENGLISH VERSION BELOW)
 
